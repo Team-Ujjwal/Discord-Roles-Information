@@ -12,7 +12,7 @@ Discord: `UjjwalGamer#9853 [459683335979925504]`
 
 - Discord Staff: Manages the server with rules and regulations. They have rights to take the necessary action against the offender.
 
-- Minecraft Team: Manages our minecraft gaming server ie. [TG Network](https://tgnetwork.in)!
+- Minecraft Team: Manages our minecraft gaming server i.e. [TG Network](https://tgnetwork.in)!
 
 <h3>Special Roles</h3>
 
@@ -24,7 +24,7 @@ Discord: `UjjwalGamer#9853 [459683335979925504]`
 
 - Nitro Booster: The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).
 
-- YouTube Sponsor: Channel member of live channel ie. [Ujjwal](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw). [Click here to join sponsor gang today](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)!
+- YouTube Sponsor: Channel member of live channel i.e. [Ujjwal](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw). [Click here to join sponsor gang today](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)!
 
 - Contributor: Ones who sponsor the server financially under certain circumstances(terms & conditions applied).
 
