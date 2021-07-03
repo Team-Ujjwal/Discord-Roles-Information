@@ -28,7 +28,7 @@ Discord: `UjjwalGamer#9853 [459683335979925504]`
 
 - Contributor: Ones who sponsor the server financially under certain circumstances(terms & conditions applied).
 
-- Developer: Creator of bots which are being used in this server for long time.
+- Developer: Creator of bots which are being used in this server.
 
 - Designer: Ones who regularly does gfx or vfx work for Team Ujjwal.
 
