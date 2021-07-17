@@ -41,4 +41,4 @@
 | 100k+ GanG                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
 | 150k+ GanG                 | Show off your honorable title of being on top of the server.               |
 
-> *Please Note*: The level up roles will be alloted to you after sending particular amount of messages as mentioned above to get your perks unlocked!
+> **Please Note**: The level up roles will be alloted to you after sending particular amount of messages as mentioned above to get your perks unlocked!
