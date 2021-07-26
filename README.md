@@ -26,6 +26,7 @@
 | Developer         | Creator of bots which are being used in this server.                                                                                                                                                            |
 | Designer          | Ones who regularly does gfx or vfx work for Team Ujjwal.                                                                                                                                                        |
 | Artist            | Talented musicians present in the [server](https://discord.gg/ujjwalgamer).                                                                                                                                     |
+| PTT Bypass            | Given on the basis of activity and assigned/removed automatically via automation.                                                                                                                                     |
 
 <h3>Level Roles</h3>
 
