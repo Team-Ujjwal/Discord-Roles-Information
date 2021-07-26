@@ -11,6 +11,7 @@
 | Management     | Looks after all core activities related to Ujjwal and team his team.                                                  |
 | Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
 | Minecraft Team | Manages our Minecraft gaming server i.e. [TG Network](https://tgnetwork.in).                                          |
+| Community Team | Manages all our community events held on Discord.                                          |
 
 <h3>Special Roles</h3>
 
