@@ -31,7 +31,7 @@
 
 <h3>Level Roles</h3>
 
-| Amount of Message Required | Perks Unlocked                                                             |
+| Roles | Perks Unlocked                                                             |
 |----------------------------|----------------------------------------------------------------------------|
 | Level  10+                  | Unlocks hidden channels.                                                   |
 | Level  20+                   | Permission to external emotes.                                             |
