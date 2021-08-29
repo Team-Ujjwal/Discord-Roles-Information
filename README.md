@@ -33,15 +33,15 @@
 
 | Amount of Message Required | Perks Unlocked                                                             |
 |----------------------------|----------------------------------------------------------------------------|
-| 500+ GanG (Level 10)                  | Unlocks hidden channels.                                                   |
-| 2k+ GanG (Level 20)                   | Permission to external emotes.                                             |
-| 5k+ GanG (Level 30)                   | Permission to add reactions along with video/screen share.                 |
-| 10k+ GanG (Level 40)                  | Permission to change your nickname.                                    |
-| 20k+ GanG (Level 50)                  | DJ access to control player of music bots.                                 |
-| 30k+ GanG (Level 60)                  | Permission to set AFK status.                                              |
-| 50k+ GanG (Level 70)                  | Permission to attach/embed files across channels.                          |
-| 70k+ GanG (Level 80)                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
-| 100k+ GanG (Level 90)                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
-| 150k+ GanG (Level 100)                | Show off your honourable title of being on top of the server.               |
+| Level  10+                  | Unlocks hidden channels.                                                   |
+| Level  20+                   | Permission to external emotes.                                             |
+| Level  30+                   | Permission to add reactions along with video/screen share.                 |
+| Level  40+                  | Permission to change your nickname.                                    |
+| Level  50+                  | DJ access to control player of music bots.                                 |
+| Level  60+                  | Permission to set AFK status.                                              |
+| Level  70+                  | Permission to attach/embed files across channels.                          |
+| Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
+| Level  90+                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
+| Level 100+                | Show off your honourable title of being on top of the server.               |
 
 > **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only Mee6 Leaderboard is considered.)
