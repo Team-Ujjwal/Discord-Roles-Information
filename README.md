@@ -8,7 +8,7 @@
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
 | Owner          | Ujjwal Chaurasia.  Discord: `UjjwalGamer#9853` UID: `459683335979925504`                                              |
-| Management     | Looks after all core activities related to Ujjwal and team his team.                                                  |
+| Management     | Looks after all the core activities related to Ujjwal and his team.                                                   |
 | Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
 | Minecraft Team | Manages our Minecraft gaming server i.e. [TG Network](https://tgnetwork.in).                                          |
 | Community Team | Manages all our community events held on Discord.                                          |
@@ -42,7 +42,7 @@
 | Level  60+                  | Permission to set AFK status.                                              |
 | Level  70+                  | Permission to attach/embed files across channels.                          |
 | Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
-| Level  90+                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
+| Level  90+                 | Be the part of highly exclusive stuff. (In short, a kind of pre-release!)   |
 | Level 100+                | Show off your honourable title of being on top of the server.               |
 
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only Mee6 Leaderboard is considered.)
+> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all the time are not considered, only the Mee6 leaderboard is considered.)
