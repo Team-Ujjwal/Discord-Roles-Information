@@ -28,7 +28,7 @@
 | Artist            | Talented musicians present in the [server](https://discord.gg/ujjwalgamer).                                                                                                                                     |
 | PTT Bypass            | Given based on activity and assigned/removed automatically via automation.                                                                                                                                     |
 | Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |
-| Membership            | These roles are given to member after a designated duration after they join our Discord server. Currently we have (3, 6 & 9) months & (1, 2 ,3, 4 & 5) years.                                                                                                                                     |
+| Membership            | These roles are given according to your time from when you have joined our Discord server. Currently available time roles are 3 months to 5 years.                                                                                                                                     |
 
 <h3>Level Roles</h3>
 
